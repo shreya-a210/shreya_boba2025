@@ -18,7 +18,6 @@ a:hover {
 
 #vbImg {
     width: 400px;
-    float: right;
 }
 
 h1 {
@@ -55,4 +54,14 @@ body {
 
 img {
     width: 30px;   
+}
+
+figure {
+    width: 30%;
+    float: right
+}
+
+figcaption {
+    padding-top: 10px;
+    padding-left: 10px;
 }
